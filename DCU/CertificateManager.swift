@@ -10,6 +10,7 @@ import Foundation
 protocol CertificateManagerProtocol {
     func fetchStoredP12CertificatesSets(completion:@escaping APIRequstHandler)
 }
+
 public typealias APIRequstHandler = ([CertificateSetModel]?, Error?)->Void
 
 class CertificateManager: CertificateManagerProtocol {
