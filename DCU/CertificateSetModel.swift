@@ -11,6 +11,7 @@ public struct CertificateSetModelConstants {
     public static let providerType = "ProviderType"
     public static let timeStamp = "TimeStamp"
 }
+
 /// This is the certificate store data structure class
 public struct CertificateSetModel {
     var certificateName: String

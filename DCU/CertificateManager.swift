@@ -13,9 +13,11 @@ protocol CertificateManagerProtocol {
 
 public typealias APIRequstHandler = ([CertificateSetModel]?, Error?)->Void
 
-class CertificateManager: CertificateManagerProtocol {
+public class CertificateManager: CertificateManagerProtocol {
 
-    public func fetchStoredP12CertificatesSets(completion:@escaping APIRequstHandler) {
+    public init() { /* No Action */ }
+    public func certificateLiist(completion:@escaping APIRequstHandler) {
+        
         self.fetchStoredP12CertificatesSets { models, error in
             completion(models, error)
         }

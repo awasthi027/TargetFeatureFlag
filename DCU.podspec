@@ -3,13 +3,15 @@ Pod::Spec.new do |s|
 #1
 
 s.platform = :ios
-s.ios.deployment_target = '14.0'
+s.ios.deployment_target = '16.0'
 
-s.name = "DCU framework"
+s.name = "DCU"
 
-s.summary = "DCU framework"
+s.summary = "DCU"
 
 s.requires_arc = true
+
+s.default_subspec = 'Base'
 
 # 2
 s.version = "1.0.0"
@@ -38,7 +40,15 @@ s.source = { :git => "https://github.com/awasthi027/TargetFeatureFlag.git",
 
 
 # 8
-s.source_files = "DCU/**/*.{swift}"
+s.subspec "Base" do |cs|
+     cs.source_files = ['DCU/**/*.{swift}']
+     cs.exclude_files = ['DCU/DCU2.0/*.{swift}']
+end
+
+s.subspec "DCU2.0" do |cs|
+     cs.source_files = ['DCU/**/*.{swift}']
+     cs.exclude_files = ['DCU/DCU1.0/*.{swift}']
+end
 
 # 10
 s.swift_version = "5.5"

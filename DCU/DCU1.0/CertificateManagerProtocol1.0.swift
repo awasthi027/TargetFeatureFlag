@@ -8,6 +8,7 @@
 import Foundation
 
 extension CertificateManagerProtocol {
+    
     func fetchStoredP12CertificatesSets(completion:@escaping APIRequstHandler) {
         completion([CertificateSetModel(certificateName: "Certificate from DCU 1.0")], nil)
     }

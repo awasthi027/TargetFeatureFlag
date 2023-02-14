@@ -14,7 +14,7 @@
 		C874A8002993A27E00ACB4E7 /* DCU.h in Headers */ = {isa = PBXBuildFile; fileRef = C874A7F129939EEE00ACB4E7 /* DCU.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C874A8022993A27E00ACB4E7 /* CertificateSetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C874A7FA2993A02100ACB4E7 /* CertificateSetModel.swift */; };
 		C874A8032993A27E00ACB4E7 /* CertificateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C874A7F829939F1300ACB4E7 /* CertificateManager.swift */; };
-		C874A80D2993A2FD00ACB4E7 /* CertificateManagerProtocol2.0.swift in Sources */ = {isa = PBXBuildFile; fileRef = C874A80B2993A2E900ACB4E7 /* CertificateManagerProtocol2.0.swift */; };
+		C874A82B299A147100ACB4E7 /* CertificateManagerProtocol2.0.swift in Sources */ = {isa = PBXBuildFile; fileRef = C874A829299A146400ACB4E7 /* CertificateManagerProtocol2.0.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +24,7 @@
 		C874A7FA2993A02100ACB4E7 /* CertificateSetModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CertificateSetModel.swift; sourceTree = "<group>"; };
 		C874A7FC2993A0CB00ACB4E7 /* CertificateManagerProtocol1.0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CertificateManagerProtocol1.0.swift; sourceTree = "<group>"; };
 		C874A80A2993A27E00ACB4E7 /* DCU2.0.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DCU2.0.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C874A80B2993A2E900ACB4E7 /* CertificateManagerProtocol2.0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CertificateManagerProtocol2.0.swift; sourceTree = "<group>"; };
+		C874A829299A146400ACB4E7 /* CertificateManagerProtocol2.0.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CertificateManagerProtocol2.0.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,13 +65,29 @@
 		C874A7F029939EEE00ACB4E7 /* DCU */ = {
 			isa = PBXGroup;
 			children = (
+				C8D62709299A633B001F0BD4 /* DCU1.0 */,
+				C874A82C299A153F00ACB4E7 /* DCU2.0 */,
 				C874A7F129939EEE00ACB4E7 /* DCU.h */,
-				C874A7FC2993A0CB00ACB4E7 /* CertificateManagerProtocol1.0.swift */,
-				C874A80B2993A2E900ACB4E7 /* CertificateManagerProtocol2.0.swift */,
 				C874A7F829939F1300ACB4E7 /* CertificateManager.swift */,
 				C874A7FA2993A02100ACB4E7 /* CertificateSetModel.swift */,
 			);
 			path = DCU;
+			sourceTree = "<group>";
+		};
+		C874A82C299A153F00ACB4E7 /* DCU2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				C874A829299A146400ACB4E7 /* CertificateManagerProtocol2.0.swift */,
+			);
+			path = DCU2.0;
+			sourceTree = "<group>";
+		};
+		C8D62709299A633B001F0BD4 /* DCU1.0 */ = {
+			isa = PBXGroup;
+			children = (
+				C874A7FC2993A0CB00ACB4E7 /* CertificateManagerProtocol1.0.swift */,
+			);
+			path = DCU1.0;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,7 +214,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C874A80D2993A2FD00ACB4E7 /* CertificateManagerProtocol2.0.swift in Sources */,
+				C874A82B299A147100ACB4E7 /* CertificateManagerProtocol2.0.swift in Sources */,
 				C874A8022993A27E00ACB4E7 /* CertificateSetModel.swift in Sources */,
 				C874A8032993A27E00ACB4E7 /* CertificateManager.swift in Sources */,
 			);
