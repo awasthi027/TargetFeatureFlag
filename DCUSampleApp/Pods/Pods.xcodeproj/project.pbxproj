@@ -7,33 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		077816679B5EE1B79173ED8D94E20C1A /* CertificateSetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12D6BB8AE48EDF5103898BCD97D7520 /* CertificateSetModel.swift */; };
-		29E218CE2BA2AA6D3DDFA6B6E2D24B3C /* CertificateManagerProtocol2.0.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95D972B4C202A6B2792C47E3EA43BB8 /* CertificateManagerProtocol2.0.swift */; };
-		2B764C984431FF8A826EB797977E4E49 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		5E933851DCEB87791585C4A895BD489E /* DCU-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 08B1E01EE28BE9230C2F0AF2D1CF8400 /* DCU-dummy.m */; };
-		7CE883B7717D78BBB666789B3A326015 /* CertificateSetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12D6BB8AE48EDF5103898BCD97D7520 /* CertificateSetModel.swift */; };
+		18B148CB76C84D09A6073BDBA062BF24 /* DCU-DCU2.0-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D503E954586D1E72220F570410BDACEA /* DCU-DCU2.0-dummy.m */; };
+		2EC04D3CF6DC16877139F87BD03AD3E9 /* DCU-DCU2.0-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B39350E8C2F60DD02925C11870EDC2A4 /* DCU-DCU2.0-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		3075052A39FCA3CCEC5CDD38FB3D5975 /* CertificateSetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599413D5D47DEF5B8B72F26DD2F347D0 /* CertificateSetModel.swift */; };
+		47B558E9976CE1248D8DEFD357D87076 /* CertificateManagerProtocol1.0.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8D51023FFDBCB80044EC9F3A44DF07 /* CertificateManagerProtocol1.0.swift */; };
+		5555BA79BEEF3DA1CFD034C315A3E015 /* CertificateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C743286BC9E2447F7F24575D9A146 /* CertificateManager.swift */; };
 		7FC4A25CCF8702B2E606549D64F663A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		8A86C3587664CA542FFCD0E56EA27AF5 /* DCU-DCU2.0-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F89B2F622F5616029B2A3B742899874 /* DCU-DCU2.0-dummy.m */; };
-		987CBFEEB0574B84C3D5A8423338A741 /* CertificateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8416064765B43F148C526FF28EB298 /* CertificateManager.swift */; };
-		9DEA6EABED0BBF0A95ABDEC1E932369A /* CertificateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8416064765B43F148C526FF28EB298 /* CertificateManager.swift */; };
-		A2E502090783ACC13C9AD3D9073DA190 /* CertificateManagerProtocol1.0.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC39BAB61D08604E1C71A54B6123587 /* CertificateManagerProtocol1.0.swift */; };
+		89C61AE462D0423F33911A4706E05516 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		8F6A683304DDEAC999C0C759DC8307D8 /* CertificateSetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599413D5D47DEF5B8B72F26DD2F347D0 /* CertificateSetModel.swift */; };
 		A8C127576E088E00021A57372095FCD9 /* Pods-DCUSample-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C20B10A88B1CBECE8CBAB622071A0B0 /* Pods-DCUSample-dummy.m */; };
-		AF27A460B75B00364F2BF089DD31513B /* DCU-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 545481F6A8CED9D015864E6133115AFD /* DCU-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B5EF3F5817535355B62A7AB8D3207350 /* DCU-DCU2.0-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB3485F2F138E79909F558E4F29D6F2A /* DCU-DCU2.0-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B7FB6348F9D91C4EA76A4426048131CF /* CertificateManagerProtocol2.0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BC6E3DCEA8708DB0C0309A2525F2B /* CertificateManagerProtocol2.0.swift */; };
+		BB12D88292B9D7E219E3457B4CD2EE00 /* DCU-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EA0CFD9F7AEDAE109586067768B12DC6 /* DCU-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BDDDDE0784F7A4A5F86A51EC7B51D858 /* DCU-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C39C45393C5EBF694C8CB76A13B72BC6 /* DCU-dummy.m */; };
 		C305DBC4CD2BDB1642480FB50EEB3201 /* Pods-DCUSample2.0-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 295A2F2290A603C934AA4AC1BA7325E9 /* Pods-DCUSample2.0-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C4D3EC075DB9FA951E6BC58EB2664507 /* CertificateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C743286BC9E2447F7F24575D9A146 /* CertificateManager.swift */; };
 		E826537A4883BD4F563D40E948667386 /* Pods-DCUSample2.0-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BE68BD8E487B6B81B6DC689D8323721D /* Pods-DCUSample2.0-dummy.m */; };
 		FE22D6E0E9935E53AC2F56B65634F480 /* Pods-DCUSample-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CFA49E6DF3315075C493C23FE7030255 /* Pods-DCUSample-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4261DD972462F81379DE2E46DBCBEA3C /* PBXContainerItemProxy */ = {
+		025BE2EA5F635DC1DE7F8675E4A73A27 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F66B7A5FBB6175415878FEBAC46DA74A;
 			remoteInfo = DCU;
 		};
-		9F875036FB67C6745A590584A577A7E9 /* PBXContainerItemProxy */ = {
+		27C7220D2C7C3A5AF544D86422E75A72 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -43,46 +43,47 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		08B1E01EE28BE9230C2F0AF2D1CF8400 /* DCU-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DCU-dummy.m"; sourceTree = "<group>"; };
-		115FD16A0A22CE4AB57AD079CEA2DCA0 /* DCU-DCU2.0-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "DCU-DCU2.0-prefix.pch"; path = "../DCU-DCU2.0/DCU-DCU2.0-prefix.pch"; sourceTree = "<group>"; };
+		012BC6E3DCEA8708DB0C0309A2525F2B /* CertificateManagerProtocol2.0.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CertificateManagerProtocol2.0.swift; sourceTree = "<group>"; };
+		1780EB1605CCC274C429E0825346050A /* DCU-DCU2.0.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "DCU-DCU2.0.debug.xcconfig"; path = "../DCU-DCU2.0/DCU-DCU2.0.debug.xcconfig"; sourceTree = "<group>"; };
 		2035FBA00968A0A711D50FA17A4DA3FB /* Pods-DCUSample2.0-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DCUSample2.0-acknowledgements.markdown"; sourceTree = "<group>"; };
 		257A0F634C64DACE380A452F704E048C /* Pods-DCUSample2.0 */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-DCUSample2.0"; path = "libPods-DCUSample2.0.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		275DCD625B7C2BDDDB69F4B4A86B7CD7 /* Pods-DCUSample2.0.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DCUSample2.0.modulemap"; sourceTree = "<group>"; };
 		295A2F2290A603C934AA4AC1BA7325E9 /* Pods-DCUSample2.0-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DCUSample2.0-umbrella.h"; sourceTree = "<group>"; };
-		2B367847A3FA619B93985C5F8F0A0437 /* DCU-DCU2.0.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; name = "DCU-DCU2.0.modulemap"; path = "../DCU-DCU2.0/DCU-DCU2.0.modulemap"; sourceTree = "<group>"; };
-		4111AA38B6B5F117701A70D5DE53941F /* DCU.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DCU.release.xcconfig; sourceTree = "<group>"; };
-		4F89B2F622F5616029B2A3B742899874 /* DCU-DCU2.0-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "DCU-DCU2.0-dummy.m"; path = "../DCU-DCU2.0/DCU-DCU2.0-dummy.m"; sourceTree = "<group>"; };
-		545481F6A8CED9D015864E6133115AFD /* DCU-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DCU-umbrella.h"; sourceTree = "<group>"; };
-		6555E7127966C89BB5EBBBF17133D8E8 /* DCU.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DCU.modulemap; sourceTree = "<group>"; };
+		351CC3D83D72D63F0EF44682FD93ADA4 /* DCU.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DCU.modulemap; sourceTree = "<group>"; };
+		38CFD484DC1852B13146CBC978286F09 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		51F107B790A3AF07E09A993936BF3FAF /* DCU.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DCU.release.xcconfig; sourceTree = "<group>"; };
+		599413D5D47DEF5B8B72F26DD2F347D0 /* CertificateSetModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CertificateSetModel.swift; path = DCU/CertificateSetModel.swift; sourceTree = "<group>"; };
 		6B0BE4927F8B1490C81D52DCEDF7362C /* Pods-DCUSample-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DCUSample-Info.plist"; sourceTree = "<group>"; };
-		6D8416064765B43F148C526FF28EB298 /* CertificateManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CertificateManager.swift; path = DCU/CertificateManager.swift; sourceTree = "<group>"; };
 		70B5A741EDDBDEA63C23A5721AEFDC4B /* DCU */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DCU; path = DCU.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		72C6E44AA435EC6EE9120ACE7B0FA146 /* DCU.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DCU.debug.xcconfig; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7313AA0CF862FDEB971CC8783300FDA7 /* Pods-DCUSample.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DCUSample.modulemap"; sourceTree = "<group>"; };
+		851ADAA8D8ADAF040CFF0D7E27ECD1C4 /* DCU-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DCU-Info.plist"; sourceTree = "<group>"; };
+		851C743286BC9E2447F7F24575D9A146 /* CertificateManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CertificateManager.swift; path = DCU/CertificateManager.swift; sourceTree = "<group>"; };
 		9122C932055F32855804057E4648407F /* Pods-DCUSample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DCUSample.release.xcconfig"; sourceTree = "<group>"; };
-		942DA94EE7AE7529088CFC015B42D5DD /* DCU-DCU2.0.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "DCU-DCU2.0.debug.xcconfig"; path = "../DCU-DCU2.0/DCU-DCU2.0.debug.xcconfig"; sourceTree = "<group>"; };
+		97DED6B0D179D36C4B70075846577ECE /* DCU.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DCU.debug.xcconfig; sourceTree = "<group>"; };
 		984054E0D3D64F9A2DF398E7786C13D4 /* Pods-DCUSample2.0.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DCUSample2.0.release.xcconfig"; sourceTree = "<group>"; };
-		98E1574AF934B0C7EADF9656815ACF56 /* DCU-DCU2.0.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "DCU-DCU2.0.release.xcconfig"; path = "../DCU-DCU2.0/DCU-DCU2.0.release.xcconfig"; sourceTree = "<group>"; };
 		9C20B10A88B1CBECE8CBAB622071A0B0 /* Pods-DCUSample-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DCUSample-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A2749C8427D7D6E33845B6A3A09FBB82 /* DCU-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DCU-Info.plist"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A5A98C081D2044791D0BA1D1580C4686 /* Pods-DCUSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DCUSample.debug.xcconfig"; sourceTree = "<group>"; };
-		A95D972B4C202A6B2792C47E3EA43BB8 /* CertificateManagerProtocol2.0.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CertificateManagerProtocol2.0.swift; sourceTree = "<group>"; };
 		ADB02B7359C1BF5B976FAC1095D808A1 /* Pods-DCUSample2.0.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DCUSample2.0.debug.xcconfig"; sourceTree = "<group>"; };
-		B5A7AC1D441A61164C775994A8C9FE0C /* DCU.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = DCU.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B39350E8C2F60DD02925C11870EDC2A4 /* DCU-DCU2.0-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "DCU-DCU2.0-umbrella.h"; path = "../DCU-DCU2.0/DCU-DCU2.0-umbrella.h"; sourceTree = "<group>"; };
 		B6D1789049A442AC38B6194BA501DA60 /* Pods-DCUSample-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DCUSample-acknowledgements.markdown"; sourceTree = "<group>"; };
+		BC8D51023FFDBCB80044EC9F3A44DF07 /* CertificateManagerProtocol1.0.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CertificateManagerProtocol1.0.swift; sourceTree = "<group>"; };
 		BE68BD8E487B6B81B6DC689D8323721D /* Pods-DCUSample2.0-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DCUSample2.0-dummy.m"; sourceTree = "<group>"; };
 		C14FC4F30BF1FBA2E08A67B461F1A5F9 /* Pods-DCUSample-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DCUSample-frameworks.sh"; sourceTree = "<group>"; };
-		CF2E4CBB9E99A8E40EC0F9F66D6B6E91 /* DCU-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DCU-prefix.pch"; sourceTree = "<group>"; };
+		C39C45393C5EBF694C8CB76A13B72BC6 /* DCU-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DCU-dummy.m"; sourceTree = "<group>"; };
+		C9A20121DC4428771022C05FC7725491 /* DCU.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = DCU.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CFA49E6DF3315075C493C23FE7030255 /* Pods-DCUSample-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DCUSample-umbrella.h"; sourceTree = "<group>"; };
 		D4E576F85E3BCEDDC2B9BF33E7FBE9A2 /* DCU-DCU2.0 */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "DCU-DCU2.0"; path = "libDCU-DCU2.0.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D503E954586D1E72220F570410BDACEA /* DCU-DCU2.0-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "DCU-DCU2.0-dummy.m"; path = "../DCU-DCU2.0/DCU-DCU2.0-dummy.m"; sourceTree = "<group>"; };
 		D6D33281DA372C76C8441B73A380E4A0 /* Pods-DCUSample-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DCUSample-acknowledgements.plist"; sourceTree = "<group>"; };
-		DB3485F2F138E79909F558E4F29D6F2A /* DCU-DCU2.0-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "DCU-DCU2.0-umbrella.h"; path = "../DCU-DCU2.0/DCU-DCU2.0-umbrella.h"; sourceTree = "<group>"; };
+		D8B2CAB26FE92E113E86C9867E0A8AE4 /* DCU-DCU2.0.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; name = "DCU-DCU2.0.modulemap"; path = "../DCU-DCU2.0/DCU-DCU2.0.modulemap"; sourceTree = "<group>"; };
+		D91A817ACA16395D6A505E13B77806ED /* DCU-DCU2.0.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "DCU-DCU2.0.release.xcconfig"; path = "../DCU-DCU2.0/DCU-DCU2.0.release.xcconfig"; sourceTree = "<group>"; };
+		E949F6264B9D148D316C827215D6A092 /* DCU-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DCU-prefix.pch"; sourceTree = "<group>"; };
+		EA0CFD9F7AEDAE109586067768B12DC6 /* DCU-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DCU-umbrella.h"; sourceTree = "<group>"; };
 		EBD70563E28B21009D07C31B015C71EA /* Pods-DCUSample */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-DCUSample"; path = Pods_DCUSample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F12D6BB8AE48EDF5103898BCD97D7520 /* CertificateSetModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CertificateSetModel.swift; path = DCU/CertificateSetModel.swift; sourceTree = "<group>"; };
+		F126110F63DF2BFBBA8AE9AC60A89974 /* DCU-DCU2.0-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "DCU-DCU2.0-prefix.pch"; path = "../DCU-DCU2.0/DCU-DCU2.0-prefix.pch"; sourceTree = "<group>"; };
 		F6BA2C31E5785A4872DF09343204FD47 /* Pods-DCUSample2.0-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DCUSample2.0-acknowledgements.plist"; sourceTree = "<group>"; };
-		FFC39BAB61D08604E1C71A54B6123587 /* CertificateManagerProtocol1.0.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CertificateManagerProtocol1.0.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,11 +95,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		27571368AFACA087284591CDE8F26410 /* Frameworks */ = {
+		2F6D6B04618C76B66B08FF25EC4CEDA0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B764C984431FF8A826EB797977E4E49 /* Foundation.framework in Frameworks */,
+				89C61AE462D0423F33911A4706E05516 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,7 +110,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		69C7755F142445AB9683E4F5FF313CD2 /* Frameworks */ = {
+		E8BED9CA388117D04F1B1010D6C0B385 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -119,22 +120,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		01ACEEDAEA3E8B7E13861F93DAFFFED8 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				B5A7AC1D441A61164C775994A8C9FE0C /* DCU.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		036064ED4D3E5B36E8A1969AA001CF0D /* DCU2.0 */ = {
-			isa = PBXGroup;
-			children = (
-				6A5E60264A78C02D2D8C8F35A51DF3B3 /* DCU2.0 */,
-			);
-			name = DCU2.0;
-			sourceTree = "<group>";
-		};
 		16FFE684830CDF14616C67045CCDAED5 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -144,14 +129,45 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		1FB44C81DF6013EA3572C78DD77BFD4F /* Base */ = {
+		19A314854A7B1A092CC54C1F03A14E86 /* DCU */ = {
 			isa = PBXGroup;
 			children = (
-				6D8416064765B43F148C526FF28EB298 /* CertificateManager.swift */,
-				F12D6BB8AE48EDF5103898BCD97D7520 /* CertificateSetModel.swift */,
-				A44D4C69999034798DAC5AC091D9D0FC /* DCU1.0 */,
+				C0617E66D206BF66BE8C82AFCAC037C8 /* Base */,
+				509DE21EBE38C4C1ED514AA5C9C61E4A /* DCU2.0 */,
+				7CF024D53573B2D2369E7A8BFBC62796 /* Pod */,
+				19F7B7150316E0408F00219DD1D1706A /* Support Files */,
 			);
-			name = Base;
+			name = DCU;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		19F7B7150316E0408F00219DD1D1706A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				351CC3D83D72D63F0EF44682FD93ADA4 /* DCU.modulemap */,
+				D8B2CAB26FE92E113E86C9867E0A8AE4 /* DCU-DCU2.0.modulemap */,
+				D503E954586D1E72220F570410BDACEA /* DCU-DCU2.0-dummy.m */,
+				F126110F63DF2BFBBA8AE9AC60A89974 /* DCU-DCU2.0-prefix.pch */,
+				B39350E8C2F60DD02925C11870EDC2A4 /* DCU-DCU2.0-umbrella.h */,
+				1780EB1605CCC274C429E0825346050A /* DCU-DCU2.0.debug.xcconfig */,
+				D91A817ACA16395D6A505E13B77806ED /* DCU-DCU2.0.release.xcconfig */,
+				C39C45393C5EBF694C8CB76A13B72BC6 /* DCU-dummy.m */,
+				851ADAA8D8ADAF040CFF0D7E27ECD1C4 /* DCU-Info.plist */,
+				E949F6264B9D148D316C827215D6A092 /* DCU-prefix.pch */,
+				EA0CFD9F7AEDAE109586067768B12DC6 /* DCU-umbrella.h */,
+				97DED6B0D179D36C4B70075846577ECE /* DCU.debug.xcconfig */,
+				51F107B790A3AF07E09A993936BF3FAF /* DCU.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "DCUSampleApp/Pods/Target Support Files/DCU";
+			sourceTree = "<group>";
+		};
+		1EC00AC188D6ADFF38448CF500E9D15D /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				19A314854A7B1A092CC54C1F03A14E86 /* DCU */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		3E8122CC512D4ACAF2EDF672D4D8B34E /* Pods-DCUSample */ = {
@@ -171,29 +187,20 @@
 			path = "Target Support Files/Pods-DCUSample";
 			sourceTree = "<group>";
 		};
+		509DE21EBE38C4C1ED514AA5C9C61E4A /* DCU2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				8C3A5050A1502B68BD2A693AF63A66E9 /* DCU2.0 */,
+			);
+			name = DCU2.0;
+			sourceTree = "<group>";
+		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
 			isa = PBXGroup;
 			children = (
 				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		6A5E60264A78C02D2D8C8F35A51DF3B3 /* DCU2.0 */ = {
-			isa = PBXGroup;
-			children = (
-				A95D972B4C202A6B2792C47E3EA43BB8 /* CertificateManagerProtocol2.0.swift */,
-			);
-			name = DCU2.0;
-			path = DCU/DCU2.0;
-			sourceTree = "<group>";
-		};
-		6B5586A058090988FDACB9118C9AAADA /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				9493B3F9A3D793DAEAE4A0237CAF2777 /* DCU */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		7017DB7FF01EBF9E5FF7D41D0D82915E /* Pods-DCUSample2.0 */ = {
@@ -211,46 +218,22 @@
 			path = "Target Support Files/Pods-DCUSample2.0";
 			sourceTree = "<group>";
 		};
-		73C82613AB60960CF2FB8B91C6FFA886 /* Support Files */ = {
+		7CF024D53573B2D2369E7A8BFBC62796 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				6555E7127966C89BB5EBBBF17133D8E8 /* DCU.modulemap */,
-				2B367847A3FA619B93985C5F8F0A0437 /* DCU-DCU2.0.modulemap */,
-				4F89B2F622F5616029B2A3B742899874 /* DCU-DCU2.0-dummy.m */,
-				115FD16A0A22CE4AB57AD079CEA2DCA0 /* DCU-DCU2.0-prefix.pch */,
-				DB3485F2F138E79909F558E4F29D6F2A /* DCU-DCU2.0-umbrella.h */,
-				942DA94EE7AE7529088CFC015B42D5DD /* DCU-DCU2.0.debug.xcconfig */,
-				98E1574AF934B0C7EADF9656815ACF56 /* DCU-DCU2.0.release.xcconfig */,
-				08B1E01EE28BE9230C2F0AF2D1CF8400 /* DCU-dummy.m */,
-				A2749C8427D7D6E33845B6A3A09FBB82 /* DCU-Info.plist */,
-				CF2E4CBB9E99A8E40EC0F9F66D6B6E91 /* DCU-prefix.pch */,
-				545481F6A8CED9D015864E6133115AFD /* DCU-umbrella.h */,
-				72C6E44AA435EC6EE9120ACE7B0FA146 /* DCU.debug.xcconfig */,
-				4111AA38B6B5F117701A70D5DE53941F /* DCU.release.xcconfig */,
+				C9A20121DC4428771022C05FC7725491 /* DCU.podspec */,
+				38CFD484DC1852B13146CBC978286F09 /* README.md */,
 			);
-			name = "Support Files";
-			path = "DCU/DCUSample/Pods/Target Support Files/DCU";
+			name = Pod;
 			sourceTree = "<group>";
 		};
-		9493B3F9A3D793DAEAE4A0237CAF2777 /* DCU */ = {
+		8C3A5050A1502B68BD2A693AF63A66E9 /* DCU2.0 */ = {
 			isa = PBXGroup;
 			children = (
-				1FB44C81DF6013EA3572C78DD77BFD4F /* Base */,
-				036064ED4D3E5B36E8A1969AA001CF0D /* DCU2.0 */,
-				01ACEEDAEA3E8B7E13861F93DAFFFED8 /* Pod */,
-				73C82613AB60960CF2FB8B91C6FFA886 /* Support Files */,
+				012BC6E3DCEA8708DB0C0309A2525F2B /* CertificateManagerProtocol2.0.swift */,
 			);
-			name = DCU;
-			path = ../../..;
-			sourceTree = "<group>";
-		};
-		A44D4C69999034798DAC5AC091D9D0FC /* DCU1.0 */ = {
-			isa = PBXGroup;
-			children = (
-				FFC39BAB61D08604E1C71A54B6123587 /* CertificateManagerProtocol1.0.swift */,
-			);
-			name = DCU1.0;
-			path = DCU/DCU1.0;
+			name = DCU2.0;
+			path = DCU/DCU2.0;
 			sourceTree = "<group>";
 		};
 		AE0A4CC8AF56C7EC908575E94B6DED2E /* Products */ = {
@@ -264,11 +247,21 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		C0617E66D206BF66BE8C82AFCAC037C8 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				851C743286BC9E2447F7F24575D9A146 /* CertificateManager.swift */,
+				599413D5D47DEF5B8B72F26DD2F347D0 /* CertificateSetModel.swift */,
+				FF9167A7D329DDA0CCAC243429CFDABE /* DCU1.0 */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				6B5586A058090988FDACB9118C9AAADA /* Development Pods */,
+				1EC00AC188D6ADFF38448CF500E9D15D /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				AE0A4CC8AF56C7EC908575E94B6DED2E /* Products */,
 				16FFE684830CDF14616C67045CCDAED5 /* Targets Support Files */,
@@ -283,6 +276,15 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		FF9167A7D329DDA0CCAC243429CFDABE /* DCU1.0 */ = {
+			isa = PBXGroup;
+			children = (
+				BC8D51023FFDBCB80044EC9F3A44DF07 /* CertificateManagerProtocol1.0.swift */,
+			);
+			name = DCU1.0;
+			path = DCU/DCU1.0;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -294,19 +296,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7B87B887B6611EB25FFCE9753261CE68 /* Headers */ = {
+		4BC2082711E331D962179A0F3D700803 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5EF3F5817535355B62A7AB8D3207350 /* DCU-DCU2.0-umbrella.h in Headers */,
+				2EC04D3CF6DC16877139F87BD03AD3E9 /* DCU-DCU2.0-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8CA86E4A4F830532D978CE369BA90C3 /* Headers */ = {
+		AB18F5473CEDB31E53B3C174758A482A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF27A460B75B00364F2BF089DD31513B /* DCU-umbrella.h in Headers */,
+				BB12D88292B9D7E219E3457B4CD2EE00 /* DCU-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,7 +335,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				98DE2FC656BC4FDF51E7ED453F19DE1F /* PBXTargetDependency */,
+				2557EE3B16399FD8567A1A599994154D /* PBXTargetDependency */,
 			);
 			name = "Pods-DCUSample";
 			productName = Pods_DCUSample;
@@ -342,12 +344,12 @@
 		};
 		8D47C75D7816C0E331A8641C0534AED8 /* DCU-DCU2.0 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8634BBC6E0D99A3F1EEE4E8F5E07DE0A /* Build configuration list for PBXNativeTarget "DCU-DCU2.0" */;
+			buildConfigurationList = 7FE96542B0C23075FB345FFE2775E8EB /* Build configuration list for PBXNativeTarget "DCU-DCU2.0" */;
 			buildPhases = (
-				7B87B887B6611EB25FFCE9753261CE68 /* Headers */,
-				4655035FAFD2DF397C09262FD189E64A /* Sources */,
-				69C7755F142445AB9683E4F5FF313CD2 /* Frameworks */,
-				51BFA1A81A9F02008AA34A8DF2D5CA6A /* Copy generated compatibility header */,
+				4BC2082711E331D962179A0F3D700803 /* Headers */,
+				467146EA15AA8D557F574686100B9899 /* Sources */,
+				E8BED9CA388117D04F1B1010D6C0B385 /* Frameworks */,
+				7B487BEAF8EFF4316F883839CEE22C24 /* Copy generated compatibility header */,
 			);
 			buildRules = (
 			);
@@ -369,7 +371,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				751BE8D285E763C98A8BB652910C1C15 /* PBXTargetDependency */,
+				BBC154C710AF443876ED57C575238048 /* PBXTargetDependency */,
 			);
 			name = "Pods-DCUSample2.0";
 			productName = "Pods-DCUSample2.0";
@@ -378,12 +380,12 @@
 		};
 		F66B7A5FBB6175415878FEBAC46DA74A /* DCU */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AD7A0ACC95D8167D6867ACB908651EFA /* Build configuration list for PBXNativeTarget "DCU" */;
+			buildConfigurationList = 4544540A17D209DB692366E9091BEA5C /* Build configuration list for PBXNativeTarget "DCU" */;
 			buildPhases = (
-				A8CA86E4A4F830532D978CE369BA90C3 /* Headers */,
-				14231AE894E2DA903594B72E19384A9C /* Sources */,
-				27571368AFACA087284591CDE8F26410 /* Frameworks */,
-				6739DFFE615971A4BDFACD2F7536269C /* Resources */,
+				AB18F5473CEDB31E53B3C174758A482A /* Headers */,
+				19310565D7F6D419D22E12D2019169FC /* Sources */,
+				2F6D6B04618C76B66B08FF25EC4CEDA0 /* Frameworks */,
+				EE9B78E172A994E819D28374B6EE2CE9 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -400,8 +402,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastSwiftUpdateCheck = 1300;
+				LastUpgradeCheck = 1300;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 13.0";
@@ -432,7 +434,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6739DFFE615971A4BDFACD2F7536269C /* Resources */ = {
+		EE9B78E172A994E819D28374B6EE2CE9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -442,7 +444,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		51BFA1A81A9F02008AA34A8DF2D5CA6A /* Copy generated compatibility header */ = {
+		7B487BEAF8EFF4316F883839CEE22C24 /* Copy generated compatibility header */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -477,25 +479,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		14231AE894E2DA903594B72E19384A9C /* Sources */ = {
+		19310565D7F6D419D22E12D2019169FC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				987CBFEEB0574B84C3D5A8423338A741 /* CertificateManager.swift in Sources */,
-				A2E502090783ACC13C9AD3D9073DA190 /* CertificateManagerProtocol1.0.swift in Sources */,
-				7CE883B7717D78BBB666789B3A326015 /* CertificateSetModel.swift in Sources */,
-				5E933851DCEB87791585C4A895BD489E /* DCU-dummy.m in Sources */,
+				C4D3EC075DB9FA951E6BC58EB2664507 /* CertificateManager.swift in Sources */,
+				47B558E9976CE1248D8DEFD357D87076 /* CertificateManagerProtocol1.0.swift in Sources */,
+				8F6A683304DDEAC999C0C759DC8307D8 /* CertificateSetModel.swift in Sources */,
+				BDDDDE0784F7A4A5F86A51EC7B51D858 /* DCU-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4655035FAFD2DF397C09262FD189E64A /* Sources */ = {
+		467146EA15AA8D557F574686100B9899 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DEA6EABED0BBF0A95ABDEC1E932369A /* CertificateManager.swift in Sources */,
-				29E218CE2BA2AA6D3DDFA6B6E2D24B3C /* CertificateManagerProtocol2.0.swift in Sources */,
-				077816679B5EE1B79173ED8D94E20C1A /* CertificateSetModel.swift in Sources */,
-				8A86C3587664CA542FFCD0E56EA27AF5 /* DCU-DCU2.0-dummy.m in Sources */,
+				5555BA79BEEF3DA1CFD034C315A3E015 /* CertificateManager.swift in Sources */,
+				B7FB6348F9D91C4EA76A4426048131CF /* CertificateManagerProtocol2.0.swift in Sources */,
+				3075052A39FCA3CCEC5CDD38FB3D5975 /* CertificateSetModel.swift in Sources */,
+				18B148CB76C84D09A6073BDBA062BF24 /* DCU-DCU2.0-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -510,17 +512,17 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		751BE8D285E763C98A8BB652910C1C15 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "DCU-DCU2.0";
-			target = 8D47C75D7816C0E331A8641C0534AED8 /* DCU-DCU2.0 */;
-			targetProxy = 9F875036FB67C6745A590584A577A7E9 /* PBXContainerItemProxy */;
-		};
-		98DE2FC656BC4FDF51E7ED453F19DE1F /* PBXTargetDependency */ = {
+		2557EE3B16399FD8567A1A599994154D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = DCU;
 			target = F66B7A5FBB6175415878FEBAC46DA74A /* DCU */;
-			targetProxy = 4261DD972462F81379DE2E46DBCBEA3C /* PBXContainerItemProxy */;
+			targetProxy = 025BE2EA5F635DC1DE7F8675E4A73A27 /* PBXContainerItemProxy */;
+		};
+		BBC154C710AF443876ED57C575238048 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "DCU-DCU2.0";
+			target = 8D47C75D7816C0E331A8641C0534AED8 /* DCU-DCU2.0 */;
+			targetProxy = 27C7220D2C7C3A5AF544D86422E75A72 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -587,9 +589,9 @@
 			};
 			name = Release;
 		};
-		3139FF7C8168764C943651B642B22645 /* Debug */ = {
+		4E7A35A449C4A880A8D8D96B8477DA64 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 72C6E44AA435EC6EE9120ACE7B0FA146 /* DCU.debug.xcconfig */;
+			baseConfigurationReference = 97DED6B0D179D36C4B70075846577ECE /* DCU.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -622,6 +624,32 @@
 			};
 			name = Debug;
 		};
+		70EAB9F211ED9034B22C323E00284DD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D91A817ACA16395D6A505E13B77806ED /* DCU-DCU2.0.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/DCU-DCU2.0/DCU-DCU2.0-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MODULEMAP_FILE = "Headers/Public/DCU/DCU-DCU2.0.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = DCU;
+				PRODUCT_NAME = "DCU-DCU2.0";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.5;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 		7EFA5BB64A25A7DB8AE25CD6ED6D0558 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = ADB02B7359C1BF5B976FAC1095D808A1 /* Pods-DCUSample2.0.debug.xcconfig */;
@@ -644,9 +672,9 @@
 			};
 			name = Debug;
 		};
-		87CC1E38C8CD1A7A893DD8350A3ED423 /* Debug */ = {
+		AA10D290A1B5EC5B991FFBAFBAC0EA39 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 942DA94EE7AE7529088CFC015B42D5DD /* DCU-DCU2.0.debug.xcconfig */;
+			baseConfigurationReference = 1780EB1605CCC274C429E0825346050A /* DCU-DCU2.0.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -692,42 +720,6 @@
 			};
 			name = Release;
 		};
-		BE9EAEC6C033DC3B88BDD550C1566E76 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4111AA38B6B5F117701A70D5DE53941F /* DCU.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/DCU/DCU-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/DCU/DCU-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/DCU/DCU.modulemap";
-				PRODUCT_MODULE_NAME = DCU;
-				PRODUCT_NAME = DCU;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.5;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		D680189D0FA372FBDCEACA23704935BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A5A98C081D2044791D0BA1D1580C4686 /* Pods-DCUSample.debug.xcconfig */;
@@ -764,32 +756,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		EC9133335F135CE7577DA3B79B0917EC /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 98E1574AF934B0C7EADF9656815ACF56 /* DCU-DCU2.0.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/DCU-DCU2.0/DCU-DCU2.0-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				MODULEMAP_FILE = "Headers/Public/DCU/DCU-DCU2.0.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = DCU;
-				PRODUCT_NAME = "DCU-DCU2.0";
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.5;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
 		};
 		EDC7744B6202FB5FB2F7F4BC4459E244 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -895,6 +861,42 @@
 			};
 			name = Debug;
 		};
+		FF631B8FA9A371EAE63C643F6E2420E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 51F107B790A3AF07E09A993936BF3FAF /* DCU.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/DCU/DCU-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/DCU/DCU-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/DCU/DCU.modulemap";
+				PRODUCT_MODULE_NAME = DCU;
+				PRODUCT_NAME = DCU;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.5;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -903,6 +905,15 @@
 			buildConfigurations = (
 				D680189D0FA372FBDCEACA23704935BE /* Debug */,
 				EDC7744B6202FB5FB2F7F4BC4459E244 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4544540A17D209DB692366E9091BEA5C /* Build configuration list for PBXNativeTarget "DCU" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E7A35A449C4A880A8D8D96B8477DA64 /* Debug */,
+				FF631B8FA9A371EAE63C643F6E2420E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -916,11 +927,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8634BBC6E0D99A3F1EEE4E8F5E07DE0A /* Build configuration list for PBXNativeTarget "DCU-DCU2.0" */ = {
+		7FE96542B0C23075FB345FFE2775E8EB /* Build configuration list for PBXNativeTarget "DCU-DCU2.0" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				87CC1E38C8CD1A7A893DD8350A3ED423 /* Debug */,
-				EC9133335F135CE7577DA3B79B0917EC /* Release */,
+				AA10D290A1B5EC5B991FFBAFBAC0EA39 /* Debug */,
+				70EAB9F211ED9034B22C323E00284DD0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -930,15 +941,6 @@
 			buildConfigurations = (
 				7EFA5BB64A25A7DB8AE25CD6ED6D0558 /* Debug */,
 				B5E01F9B052058E64D2817A206C22760 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		AD7A0ACC95D8167D6867ACB908651EFA /* Build configuration list for PBXNativeTarget "DCU" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3139FF7C8168764C943651B642B22645 /* Debug */,
-				BE9EAEC6C033DC3B88BDD550C1566E76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
