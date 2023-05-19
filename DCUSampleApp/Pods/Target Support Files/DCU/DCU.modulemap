@@ -1,0 +1,6 @@
+framework module DCU {
+  umbrella header "DCU-umbrella.h"
+
+  export *
+  module * { export * }
+}

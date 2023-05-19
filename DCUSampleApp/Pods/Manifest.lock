@@ -1,0 +1,20 @@
+PODS:
+  - DCU (1.0.0):
+    - DCU/Base (= 1.0.0)
+  - DCU/Base (1.0.0)
+  - DCU/DCU2.0 (1.0.0)
+
+DEPENDENCIES:
+  - DCU (from `../../`)
+  - DCU/DCU2.0 (from `../../`)
+
+EXTERNAL SOURCES:
+  DCU:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  DCU: 9ad7f3dfc5a67c372bcedbaf47219e5c7d289915
+
+PODFILE CHECKSUM: 90b35123f87f81a6eca2ebe94662b046a1cbda45
+
+COCOAPODS: 1.11.3

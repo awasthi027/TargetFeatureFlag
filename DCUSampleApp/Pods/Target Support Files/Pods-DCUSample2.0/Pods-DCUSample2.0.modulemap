@@ -1,0 +1,6 @@
+module Pods_DCUSample2_0 {
+  umbrella header "Pods-DCUSample2.0-umbrella.h"
+
+  export *
+  module * { export * }
+}
